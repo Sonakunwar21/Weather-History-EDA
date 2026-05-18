@@ -2,10 +2,6 @@
 
 # 🌦️ WEATHER HISTORY EXPLORATORY DATA ANALYSIS  
 ## 🌍 Climate Pattern Discovery & Atmospheric Insights  
-
-<img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/EDA-Weather%20Analytics-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-Future%20Scope-orange?style=for-the-badge">
 ---
 
 </div>
