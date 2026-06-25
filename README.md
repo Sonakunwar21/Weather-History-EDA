@@ -6,11 +6,11 @@
 
 </div>
 
+
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on a historical weather dataset (96,453 rows, 12 columns) from a UK region. The goal is to uncover atmospheric patterns, seasonal trends, climate behavior, and interconnected relationships between key weather variables while identifying long-term climate trends and recurring atmospheric states.
 
 ---
-
 ## 🛠️ Technologies & Libraries Used
 * **Language:** Python
 * **Data Libraries:** Pandas, NumPy
