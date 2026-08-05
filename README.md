@@ -6,7 +6,6 @@
 
 </div>
 
-
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on a historical weather dataset (96,453 rows, 12 columns) from a UK region. The goal is to uncover atmospheric patterns, seasonal trends, climate behavior, and interconnected relationships between key weather variables while identifying long-term climate trends and recurring atmospheric states.
 
@@ -48,7 +47,7 @@ The climate systematically clusters into two major, recurring environmental stat
 
 ---
 
-## 💡 Major Insights
+## 💡 3 Major Insights
 * **Central Driver:** Temperature acts as the master control variable influencing humidity, visibility, and precipitation behavior.
 * **Climate Signal:** The region shows signs of gradual warming over time; the average temperature in 2016 was nearly 0.8°C higher than in 2006.
 * **Stability:** Wind speed behaves purely as a supporting variable rather than a dominant weather driver, confirming a stable temperate maritime climate.
